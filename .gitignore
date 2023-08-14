@@ -4,6 +4,10 @@
 # MacOS system files
 .DS_Store
 
+# Local environment variables
+.env
+.copado
+
 # Java defaults (https://github.com/github/gitignore/blob/main/Java.gitignore) #
 # --- #
 *.class
